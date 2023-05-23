@@ -8,7 +8,7 @@ namespace Course
     // Classe Program
     public class Program
     {
-        // Funcao que recebe informacoes e calculas
+        // Funcao que recebe informacoes e calcula
         // Programa principal
         public static void Main(string[] args)
         {   
