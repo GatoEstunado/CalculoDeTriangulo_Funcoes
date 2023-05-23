@@ -49,6 +49,7 @@ namespace Course
             // Loop
             for (int i = 0; i < 3; i++)
             {
+                // PARSE para ler e vincular os valores na READLINE a nova variavel 
                 medidas[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             }
 
